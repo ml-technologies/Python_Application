@@ -18,10 +18,8 @@ contents
 
 Install & Execute
 =======
-# code block
-
-git clone https://github.com/ml-technologies/Python_Application.git
-cd ~/Python_Application
+# git clone https://github.com/ml-technologies/Python_Application.git
+# cd ~/Python_Application
 
 
 
@@ -42,12 +40,11 @@ User Stories
 =======
 User stories are simple, yet extremely powerful constructs: they describe pieces of functionality from a user’s point of view, expressed in a solid, compact way. They reflect what a particular class of user needs and the value to be gained. The format is very simple and easy to use. There are several variations, including:
 
-# code block
-    “As a <role or persona>, I can <goal/need> so that <why>”
+# “As a <role or persona>, I can <goal/need> so that <why>”
 
-    Or, in another instance:
-# code block
-    “As a <particular class of user>, I want to <be able to perform/do something> so that <I get some form of value or benefit>”
+Or, in another instance:
+
+# “As a <particular class of user>, I want to <be able to perform/do something> so that <I get some form of value or benefit>”
 
 Graphic Specification
 =======
