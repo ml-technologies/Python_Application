@@ -1,5 +1,5 @@
 # Python_Application
-How to build Python Application using PyQT <img src="/Images/PyQt.png">
+How to build Python Application using PyQT ![](https://github.com/ml-technologies/Python_Application/Images/PyQt.png)
 
 As developers, we spend our days with code. The site you're reading this on is mostly modules, packages, libraries, frameworks, and the like. But users see applications.
 
@@ -18,16 +18,11 @@ When building our own applications, open-source Python applications are a gold m
 
 ## Install & Execute
 
-<<<<<<< HEAD
-# git clone https://github.com/ml-technologies/Python_Application.git
-# cd ~/Python_Application
-
-=======
 ```
 git clone https://github.com/ml-technologies/Python_Application.git
 cd ~/Python_Application
 ```
->>>>>>> 8ce86b2a4d09a1a1dad0053955c844989ac503ca
+
 
 
 
@@ -46,15 +41,7 @@ cd ~/Python_Application
 ## User Stories
 
 User stories are simple, yet extremely powerful constructs: they describe pieces of functionality from a user’s point of view, expressed in a solid, compact way. They reflect what a particular class of user needs and the value to be gained. The format is very simple and easy to use. There are several variations, including:
-<<<<<<< HEAD
 
-# “As a <role or persona>, I can <goal/need> so that <why>”
-
-Or, in another instance:
-
-# “As a <particular class of user>, I want to <be able to perform/do something> so that <I get some form of value or benefit>”
-
-=======
 ```
  “As a <role or persona>, I can <goal/need> so that <why>”
 ```
@@ -62,7 +49,7 @@ Or, in another instance:
 ```
  “As a <particular class of user>, I want to <be able to perform/do something> so that <I get some form of value or benefit>”
 ```
->>>>>>> 8ce86b2a4d09a1a1dad0053955c844989ac503ca
+
 
 ## Graphic Specification
 
@@ -89,14 +76,10 @@ Or, in another instance:
 
 
 ## References
-<<<<<<< HEAD
+
 [GUI development with Qt designer and PyQt]: url "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
 [freecodecamp]: url "https://www.freecodecamp.org"
 [Resource to learn PyQt ]: url "http://zetcode.com/gui/pyqt4/"
-=======
-[GUI development with Qt designer and PyQt]:  "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
-[freecodecamp]:  "https://www.freecodecamp.org"
-[Resource to learn PyQt ]:  "http://zetcode.com/gui/pyqt4/"
->>>>>>> 8ce86b2a4d09a1a1dad0053955c844989ac503ca
+
 ---
 
