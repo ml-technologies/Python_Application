@@ -1,5 +1,5 @@
 # Python_Application
-How to build Python Application using PyQT ![](https://github.com/ml-technologies/Python_Application/Images/PyQt.jpg)
+How to build Python Application using PyQT <img src="/Images/PyQt.jpg" width="100" >
 
 As developers, we spend our days with code. The site you're reading this on is mostly modules, packages, libraries, frameworks, and the like. But users see applications.
 
@@ -77,9 +77,9 @@ Or, in another instance:
 
 ## References
 
-[GUI development with Qt designer and PyQt]: url "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
-[freecodecamp]: url "https://www.freecodecamp.org"
-[Resource to learn PyQt ]: url "http://zetcode.com/gui/pyqt4/"
+[GUI development with Qt designer and PyQt]:  "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
+[freecodecamp]: "https://www.freecodecamp.org"
+[Resource to learn PyQt ]: "http://zetcode.com/gui/pyqt4/"
 
 ---
 
