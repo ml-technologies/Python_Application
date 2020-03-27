@@ -19,6 +19,7 @@ contents
 Install & Execute
 =======
 # code block
+
 git clone https://github.com/ml-technologies/Python_Application.git
 cd ~/Python_Application
 
