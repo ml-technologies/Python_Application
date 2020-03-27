@@ -75,8 +75,8 @@ Class Diagram
 
 References
 =======
-[GUI development with Qt designer and PyQt]: url "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
-[freecodecamp]: url "https://www.freecodecamp.org"
-[Resource to learn PyQt ]: url "http://zetcode.com/gui/pyqt4/"
+[GUI development with Qt designer and PyQt]:  "https://relentlesscoding.com/2017/08/25/tutorial-rapid-gui-development-with-qt-designer-and-pyqt/"
+[freecodecamp]:  "https://www.freecodecamp.org"
+[Resource to learn PyQt ]:  "http://zetcode.com/gui/pyqt4/"
 ---
 
