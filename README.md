@@ -1,5 +1,5 @@
 # Python_Application
-How to build Python Application using PyQT ![](https://github.com/ml-technologies/Python_Application/Images/PyQt.png)
+How to build Python Application using PyQT ![](https://github.com/ml-technologies/Python_Application/Images/PyQt.jpg)
 
 As developers, we spend our days with code. The site you're reading this on is mostly modules, packages, libraries, frameworks, and the like. But users see applications.
 
